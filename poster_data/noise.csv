@@ -1,0 +1,5 @@
+site,lat,lon,d6_class_used,minimum_separation_m,influence_area_m,distance_to_nearest_residential_zone_m,nearest_zone_code,nearest_zone_family,nearest_zone_group,flag,flag_if_class_I,flag_if_class_II,flag_if_class_III
+Downtown core,45.425,-75.693,III,300.0,1000.0,414.2,R5F S69,R5,urban residential,within_influence_area,clear,clear,within_influence_area
+Kanata North,45.35,-75.91,III,300.0,1000.0,444.0,RU,RU,rural countryside,within_influence_area,clear,clear,within_influence_area
+Carp (rural),45.349,-76.039,III,300.0,1000.0,93.5,V1N,V1,village / rural residential,within_min_separation,clear,within_influence_area,within_min_separation
+Ottawa airport,45.319,-75.669,III,300.0,1000.0,989.4,RU,RU,rural countryside,within_influence_area,clear,clear,within_influence_area

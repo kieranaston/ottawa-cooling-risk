@@ -1,0 +1,7 @@
+.venv/
+.python/
+.uv-cache/
+__pycache__/
+data/
+figures/out/
+.claude/

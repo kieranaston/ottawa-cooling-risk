@@ -1,0 +1,5 @@
+site,lat,lon,buffer_radius_m,buffer_mean_c_2019,buffer_mean_c_2021,buffer_mean_c_2023,above_city_median_c_2019,above_city_median_c_2021,above_city_median_c_2023,percentile_2019,percentile_2021,percentile_2023,years_in_hottest_third,verdict
+Downtown core,45.425,-75.693,500.0,28.79,31.85,32.82,6.0,5.19,6.46,94.6,88.6,95.0,3/3,persistent_hotspot
+Kanata North,45.35,-75.91,500.0,23.98,29.47,28.68,1.19,2.81,2.31,65.7,76.0,75.9,2/3,intermittent
+Carp (rural),45.349,-76.039,500.0,25.53,30.02,27.73,2.74,3.35,1.37,79.7,79.4,66.1,2/3,intermittent
+Ottawa airport,45.319,-75.669,500.0,28.54,34.17,32.53,5.75,7.5,6.17,94.1,97.3,94.5,3/3,persistent_hotspot

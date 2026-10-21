@@ -1,0 +1,5 @@
+site,lat,lon,data_year,reported_groundwater_l_per_day_2km,permitted_groundwater_l_per_day_2km,sources_reporting_2km,active_permit_sources_2km,rank_percentile_in_ottawa_2km,rank_band_2km,reported_groundwater_l_per_day_5km,permitted_groundwater_l_per_day_5km,sources_reporting_5km,active_permit_sources_5km,rank_percentile_in_ottawa_5km,rank_band_5km
+Downtown core,45.425,-75.693,2022,0,0,0,0,0.0,low,0,0,0,0,0.0,low
+Kanata North,45.35,-75.91,2022,594156,5013000,4,4,97.5,high,643166,6494723,8,6,88.2,high
+Carp (rural),45.349,-76.039,2022,619651,5564000,1,2,97.9,high,619651,5564000,1,2,86.0,high
+Ottawa airport,45.319,-75.669,2022,0,0,0,0,0.0,low,132099,0,1,0,52.6,moderate
